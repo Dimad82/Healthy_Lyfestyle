@@ -6,7 +6,7 @@
 I am very passionate about the planet and how we humans impact it and how we correlate with our own self in big City. So i tried to find the correlations with some answers that will be shown further.
 
 ## What should do
-I will tell the Story About correlations between life expectancx and yearly working hours
+I will tell the Story About correlations between life expectancy and yearly working hours
 
 ## Installations
 Colab, Jupyter
