@@ -1,4 +1,4 @@
-# Project_Healthy Lifestyle Data Visualization
+# Project Healthy Lifestyle Data Visualization
 
 ## Data Visualization of dataset Healthy_Lifestyle_2021 that shows which as a main Question if working has an Impact at longevity and how 
 
